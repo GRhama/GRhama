@@ -1,7 +1,7 @@
-## Hey! Sou o Gabriel Rhama! 
+## Hey! Me chamo Gabriel Rhama!
 
-Product Manager e agora estou aprendendo um pouco de programação!
-Portanto aqui nesse perfil, você irá encontrar vários projetinhos básicos, mas que vão servir de motivação para continuar aprendendo!
+Sou Product Manager e agora estou aprendendo um pouco de programação!
+<p>Portanto aqui nesse perfil, você irá encontrar vários projetinhos básicos, mas que vão servir de motivação para continuar aprendendo!</p>
 
 
 <div style="display: inline_block"><br>
